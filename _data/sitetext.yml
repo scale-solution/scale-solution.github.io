@@ -18,17 +18,20 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Our diverse industry expertise can support your business in following categories"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Generative AI and Machine learning tools"
+        desc: "Develop and run customized machine learnning solutions and data pipelines to generate intelligence from your data"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Micro-service based solution"
+        desc: "We help you transform your monolithic applicatition to scalable and easily deployable solution with micro-service based frameworks"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Cloud-based automation and Integration tools"
+        desc: "Improve the efficiency of managing your cloud applications with customized toolsets"
+        icon: fab fa-markdown
+      - title: "IoT Solutions"
+        desc: "Develop domain specific solutions that can integrate manage and integreate IoT devices with backend applications"
         icon: fab fa-markdown
 
   portfolio:

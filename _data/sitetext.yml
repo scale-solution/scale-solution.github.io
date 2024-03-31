@@ -76,8 +76,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/tarek-mizan-2135765/
             icon: fab fa-linkedin-in
       - name: "Md Golam Rabbani"
@@ -86,8 +84,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Rafiuzzaman Mohammad"
@@ -96,8 +92,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/rafiuzzaman-06/
             icon: fab fa-linkedin-in
       - name: "Nashid Noor"
@@ -106,8 +100,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/noornashid/
             icon: fab fa-linkedin-in
 
